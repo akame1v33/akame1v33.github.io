@@ -2,6 +2,8 @@
     {
         "name":"Bluestacks",
         "width":1400,
-        "height":200
+        "height":200,
+        "paddingTop":200,
+        "paddingRight":200
     }
 ]
